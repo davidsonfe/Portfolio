@@ -202,7 +202,7 @@ export const experiences = [
     role: "Analista de Sistemas Jr",
     company: "Cadmus Soluções em TI",
     date: "Nov 2021 - Nov 2022",
-    desc: "Trabalho como programador fullstack no Grupo Ras Soluções em TI",
+    desc: "Trabalhei como programador fullstack na Cadmus Soluções em TI",
     skills: [
       "Java",
       "JSF",
